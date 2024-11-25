@@ -117,9 +117,8 @@ def income_statement_group_weighted_average(group: list) -> dict:
 
 
 # Inputs
-airlines = ['AAL', 'DAL', 'JBLU', 'LUV', 'SAVE', 'UAL', 'ULCC']
-group_dict = income_statement_group_weighted_average(airlines)
-group_income_statement = group_dict['is_wad']
+companies = ['AAL', 'DAL', 'JBLU', 'LUV', 'SAVE', 'UAL', 'ULCC']
+group_dict = income_statement_group_weighted_average(companies)
 
 
 
