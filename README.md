@@ -1,2 +1,2 @@
 # weighted_average_income_statements
-Returns a weighted average income statement based on a user-defined list of companies
+Returns a single weighted average income statement for a user-defined list of company tickers.
